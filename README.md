@@ -51,5 +51,6 @@ Experience the live, zero-scrolling interactive command deck powering our networ
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hellaz&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=hellaz&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)
   <img src="https://github-readme-stats.vercel.app/api?username=hellaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=07090e&title_color=38bdf8&icon_color=6366f1&text_color=94a3b8" alt="Hellaz Stats" />
 </div>
