@@ -5,7 +5,7 @@
   <a href="https://hellaz.net"><img src="https://img.shields.io/badge/CORE__HUB-hellaz.net-0f172a?style=for-the-badge&logo=icloud&logoColor=38bdf8" alt="hellaz.net"></a>
   <a href="https://sitez.gr"><img src="https://img.shields.io/badge/DIRECTORY-sitez.gr-0f172a?style=for-the-badge&logo=google-earth&logoColor=f59e0b" alt="sitez.gr"></a>
   <a href="https://urlz.gr"><img src="https://img.shields.io/badge/.GR__SHORTENER-urlz.gr-0f172a?style=for-the-badge&logo=link&logoColor=6366f1" alt="urlz.gr"></a>
-  <a href="https://urlz.it"><img src="https://img.shields.io/badge/.IT__SHORTENER-urlz.it-0f172a?style=for-the-badge&logo=link&logoColor=10b981" alt="urlz.it"></a>
+  <a href="https://urlz.it"><img src="https://img.shields.io/badge/EDGE__SHORTENER-urlz.it-0f172a?style=for-the-badge&logo=link&logoColor=10b981" alt="urlz.it"></a>
   <a href="https://netz.gr"><img src="https://img.shields.io/badge/AGENCY_&_SEARCH-netz.gr-0f172a?style=for-the-badge&logo=gnometerminal&logoColor=ec4899" alt="netz.gr"></a>
   <a href="https://hellaz.gr"><img src="https://img.shields.io/badge/.GR__NEWS-hellaz.gr-0f172a?style=for-the-badge&logo=article&logoColor=10b981" alt="hellaz.gr"></a>
   <a href="https://hellaz.eu"><img src="https://img.shields.io/badge/.EU__NEWS-hellaz.eu-0f172a?style=for-the-badge&logo=gnometerminal&logoColor=ec4899" alt="hellaz.eu"></a>  
