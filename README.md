@@ -1,35 +1,48 @@
+# <div align="center">HELLAZ.TEAM ⚡</div>
+<p align="center"><b>Hellenic & European Digital Infrastructure • High-Performance Web Ecosystem</b></p>
+
 <div align="center">
-
-# HELLAZ NETWORK
-### Hellenic & European Digital Ecosystem &amp; Web Infrastructure
-
-<p align="center">
-  <a href="https://hellaz.net"><img src="https://img.shields.io/badge/Core_Hub-hellaz.net-38bdf8?style=flat-square&logo=globe&logoColor=07090e" alt="hellaz.net"></a>
-  <a href="https://urlz.gr"><img src="https://img.shields.io/badge/Shortener-.GR_urlz.gr-6366f1?style=flat-square&logo=link&logoColor=fff" alt="urlz.gr"></a>
-  <a href="https://urlz.it"><img src="https://img.shields.io/badge/Shortener-.IT_urlz.it-10b981?style=flat-square&logo=link&logoColor=fff" alt="urlz.it"></a>
-  <a href="https://sitez.gr"><img src="https://img.shields.io/badge/Directory-sitez.gr-f59e0b?style=flat-square&logo=folder&logoColor=fff" alt="sitez.gr"></a>
-</p>
-
+  <a href="https://hellaz.net"><img src="https://img.shields.io/badge/CORE__HUB-hellaz.net-0f172a?style=for-the-badge&logo=icloud&logoColor=38bdf8" alt="hellaz.net"></a>
+  <a href="https://urlz.gr"><img src="https://img.shields.io/badge/.GR__SHORTENER-urlz.gr-0f172a?style=for-the-badge&logo=link&logoColor=6366f1" alt="urlz.gr"></a>
+  <a href="https://urlz.it"><img src="https://img.shields.io/badge/.IT__SHORTENER-urlz.it-0f172a?style=for-the-badge&logo=link&logoColor=10b981" alt="urlz.it"></a>
+  <a href="https://sitez.gr"><img src="https://img.shields.io/badge/DIRECTORY-sitez.gr-0f172a?style=for-the-badge&logo=google-earth&logoColor=f59e0b" alt="sitez.gr"></a>
+  <a href="https://netz.gr"><img src="https://img.shields.io/badge/AGENCY_&_SEARCH-netz.gr-0f172a?style=for-the-badge&logo=gnometerminal&logoColor=ec4899" alt="netz.gr"></a>
 </div>
 
 ---
 
-### ⚡ Who We Are
-**Hellaz Team** is an independent digital development collective specializing in high-performance web applications, specialized ccTLD infrastructure (`.gr`, `.it`, `.eu`), and curated Hellenic digital portals.
-
-### 🌐 Active Ecosystem Platforms
-
-| Domain | Category | Description | Status |
-| :--- | :--- | :--- | :--- |
-| **[hellaz.net](https://hellaz.net)** | Core Hub | Central network infrastructure &amp; master gateway | `🟢 Optimal` |
-| **[sitez.gr](https://sitez.gr)** | Directory | *Ο Ελληνικός Κατάλογος* — Curated web index | `🟢 Optimal` |
-| **[urlz.gr](https://urlz.gr)** | .GR Shortener | Dedicated Greek URL shortener &amp; link manager | `🟢 Optimal` |
-| **[urlz.it](https://urlz.it)** | .IT Shortener | Independent Italian URL shortener &amp; router | `🟢 Optimal` |
-| **[netz.gr](https://netz.gr)** | Digital Agency | Network services &amp; search engine (`search.netz.gr`) | `🟢 Optimal` |
-| **[hellaz.gr](https://hellaz.gr)** | News &amp; Media | Real-time Greek news aggregator &amp; updates | `🟢 Optimal` |
+### ⚡ Architectural Vision
+**Hellaz Team** is an independent digital development collective engineering high-performance web applications, specialized ccTLD network infrastructure (`.gr`, `.it`, `.eu`), and lightning-fast utilities designed for scale, speed, and clean user experience.
 
 ---
 
+### 🌐 Active Ecosystem Platforms
+
+| Domain | Category | Core Capability |
+| :--- | :--- | :--- |
+| **[hellaz.net](https://hellaz.net)** | Core Infrastructure | Master Gateway & Ecosystem Nexus |
+| **[sitez.gr](https://sitez.gr)** | Web Directory | *Ο Ελληνικός Κατάλογος* & Resource Index |
+| **[urlz.gr](https://urlz.gr)** | .GR Link Management | Dedicated Hellenic URL Shortener |
+| **[urlz.it](https://urlz.it)** | .IT Routing | High-Availability Italian Shortener |
+| **[netz.gr](https://netz.gr)** | Digital Agency | Network Services & search.netz.gr |
+| **[hellaz.gr](https://hellaz.gr)** | Real-Time Media | Hellenic News Aggregator & Feeds |
+
+---
+
+### 🚀 Interactive Command Center
+Experience the live, zero-scrolling interactive command deck powering our network endpoints:
+
 <div align="center">
-  <p>Explore the live interactive command deck at <a href="https://hellaz.github.io"><b>hellaz.github.io</b></a></p>
+  <a href="https://hellaz.github.io">
+    <img src="https://img.shields.io/badge/⚡_LAUNCH_COMMAND_DECK-hellaz.github.io-38bdf8?style=for-the-badge&logo=rocket&logoColor=07090e" alt="Command Deck">
+  </a>
+</div>
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=tokyonight&hide_border=true&bg_color=07090e&title_color=38bdf8&icon_color=6366f1&text_color=94a3b8" alt="Hellaz Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?theme=tokyonight&hide_border=true&background=07090e&side_textcolor=94a3b8&number_color=38bdf8&stroke=07090e" alt="Streak Stats" height="180" />
 </div>
