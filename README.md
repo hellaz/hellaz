@@ -51,11 +51,10 @@ Experience the live, zero-scrolling interactive command deck powering our networ
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=hellaz&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)](https://github-stats-extended.vercel.app/api?username=hellaz&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark_dimmed)
 <img src="https://github-stats-extended.vercel.app/api?username=hellaz&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark_dimmed" alt="Hellaz Stats" />
 </div>
   
-
+---
 
   
 </div>
