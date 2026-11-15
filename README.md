@@ -1,51 +1,35 @@
 <div align="center">
 
-# Hellaz Network 🇬🇷🇪🇺🇮🇹
+# HELLAZ NETWORK
+### Hellenic & European Digital Ecosystem &amp; Web Infrastructure
 
-**Digital Network Services · URL Shortening Infrastructure · Greek Web Directory & News Portals**
-
-[![Hellaz.net](https://img.shields.io/badge/Hub-hellaz.net-0A66C2?style=flat-square&logo=google-chrome&logoColor=white)](https://hellaz.net)
-[![Hellaz.gr](https://img.shields.io/badge/News_GR-hellaz.gr-0284C7?style=flat-square&logo=rss&logoColor=white)](https://hellaz.gr)
-[![Hellaz.eu](https://img.shields.io/badge/News_EU-hellaz.eu-2563EB?style=flat-square&logo=rss&logoColor=white)](https://hellaz.eu)
-[![SiteZ.gr](https://img.shields.io/badge/Directory-sitez.gr-D97706?style=flat-square&logo=safari&logoColor=white)](https://sitez.gr)
-[![UrlZ.gr](https://img.shields.io/badge/Shortener-urlz.gr-10B981?style=flat-square&logo=linktree&logoColor=white)](https://urlz.gr)
-[![UrlZ.it](https://img.shields.io/badge/Shortener-urlz.it-059669?style=flat-square&logo=linktree&logoColor=white)](https://urlz.it)
-[![NetZ.gr](https://img.shields.io/badge/Agency-netz.gr-6366F1?style=flat-square&logo=cloudflare&logoColor=white)](https://netz.gr)
+<p align="center">
+  <a href="https://hellaz.net"><img src="https://img.shields.io/badge/Core_Hub-hellaz.net-38bdf8?style=flat-square&logo=globe&logoColor=07090e" alt="hellaz.net"></a>
+  <a href="https://urlz.gr"><img src="https://img.shields.io/badge/Shortener-.GR_urlz.gr-6366f1?style=flat-square&logo=link&logoColor=fff" alt="urlz.gr"></a>
+  <a href="https://urlz.it"><img src="https://img.shields.io/badge/Shortener-.IT_urlz.it-10b981?style=flat-square&logo=link&logoColor=fff" alt="urlz.it"></a>
+  <a href="https://sitez.gr"><img src="https://img.shields.io/badge/Directory-sitez.gr-f59e0b?style=flat-square&logo=folder&logoColor=fff" alt="sitez.gr"></a>
+</p>
 
 </div>
 
 ---
 
-### 🌐 Active Ecosystem & Platforms
+### ⚡ Who We Are
+**Hellaz Team** is an independent digital development collective specializing in high-performance web applications, specialized ccTLD infrastructure (`.gr`, `.it`, `.eu`), and curated Hellenic digital portals.
 
-| Brand | Live Domain | Focus & Description | Source |
+### 🌐 Active Ecosystem Platforms
+
+| Domain | Category | Description | Status |
 | :--- | :--- | :--- | :--- |
-| **Hellaz Hub** | [**hellaz.net**](https://hellaz.net) | Core network hub, infrastructure gateway, and central project directory. | 🔒 Private · [GitHub Pages](https://github.com/hellaz/hellaz.github.io) |
-| **HellaZ.GR News** | [**hellaz.gr**](https://hellaz.gr) | Greek news aggregator & real-time updates (*Επικαιρότητα, Νέα & Αναζήτηση*). | 🔒 Private |
-| **HellaZ.EU News** | [**hellaz.eu**](https://hellaz.eu) | European & regional news aggregation portal. | 🔒 Private |
-| **SiteZ.gr** | [**sitez.gr**](https://sitez.gr) | **Ο Ελληνικός Κατάλογος** — Curated Greek web directory, categorized `.GR` portals, and cloud/news resources. | 🔒 Private |
-| **UrlZ.gr** | [**urlz.gr**](https://urlz.gr) | Dedicated `.GR` URL shortener and link management platform for the Greek web. | 🔒 Private |
-| **UrlZ.it** | [**urlz.it**](https://urlz.it) | Dedicated `.IT` URL shortener and independent link routing service. | 🔒 Private |
-| **NetZ.gr** | [**netz.gr**](https://netz.gr) | **Network Services Digital .GR Agency** — Multi-purpose `.GR` digital services and custom search ([`search.netz.gr`](https://netz.gr/search/pages/about-us)). | 🔒 Private |
-
----
-
-### 🛠️ Core Focus & Infrastructure
-
-* **Independent URL Shorteners:** Separate, high-availability link infrastructure across **`.GR`** (`urlz.gr`) and **`.IT`** (`urlz.it`).
-* **News Aggregation & Web Discovery:** Automated news curation (`hellaz.gr`, `hellaz.eu`) paired with human-curated directory indexing (`sitez.gr`).
-* **Digital `.GR` Agency & Search:** Web presence solutions and custom `.GR` search tooling via `netz.gr`.
-
----
-
-### 📌 Featured Public Repositories
-
-* [**hellaz/hellaz.github.io**](https://github.com/hellaz/hellaz.github.io) — Public web gateway and static showcase for the Hellaz Network.
+| **[hellaz.net](https://hellaz.net)** | Core Hub | Central network infrastructure &amp; master gateway | `🟢 Optimal` |
+| **[sitez.gr](https://sitez.gr)** | Directory | *Ο Ελληνικός Κατάλογος* — Curated web index | `🟢 Optimal` |
+| **[urlz.gr](https://urlz.gr)** | .GR Shortener | Dedicated Greek URL shortener &amp; link manager | `🟢 Optimal` |
+| **[urlz.it](https://urlz.it)** | .IT Shortener | Independent Italian URL shortener &amp; router | `🟢 Optimal` |
+| **[netz.gr](https://netz.gr)** | Digital Agency | Network services &amp; search engine (`search.netz.gr`) | `🟢 Optimal` |
+| **[hellaz.gr](https://hellaz.gr)** | News &amp; Media | Real-time Greek news aggregator &amp; updates | `🟢 Optimal` |
 
 ---
 
 <div align="center">
-
-🌐 **[hellaz.net](https://hellaz.net)** · **[hellaz.gr](https://hellaz.gr)** · **[hellaz.eu](https://hellaz.eu)** · **[sitez.gr](https://sitez.gr)** · **[urlz.gr](https://urlz.gr)** · **[urlz.it](https://urlz.it)** · **[netz.gr](https://netz.gr)**
-
+  <p>Explore the live interactive command deck at <a href="https://hellaz.github.io"><b>hellaz.github.io</b></a></p>
 </div>
